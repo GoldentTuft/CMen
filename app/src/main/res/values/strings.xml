@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Asobi1</string>
+    <string-array name="originalPointList">
+        <item>右上(right top)</item>
+        <item>右下(right bottom)</item>
+    </string-array>
+
+</resources>
